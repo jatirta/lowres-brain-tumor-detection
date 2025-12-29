@@ -28,7 +28,7 @@ Replace the image paths with your own screenshots.
 ![Prediction Page](demo/prediction2.png)
 
 ### ✅ Video Demonstration
-
+![Demo Video](demo/full_demonstration.mp4)
 ---
 
 ## 🧠 Supported Classes  
